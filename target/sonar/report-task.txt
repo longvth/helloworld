@@ -1,5 +1,0 @@
-projectKey=longvth:longvth
-serverUrl=https://sonarqube.com
-dashboardUrl=https://sonarqube.com/dashboard/index/longvth:longvth
-ceTaskId=AVpFCZCRBRN57cu32s7T
-ceTaskUrl=https://sonarqube.com/api/ce/task?id=AVpFCZCRBRN57cu32s7T
